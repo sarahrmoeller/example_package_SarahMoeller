@@ -11,7 +11,7 @@ dependencies = ["numpy"]
 readme="README.md"
 
 [tool.hatch]
-version.path = "src/example_package_sarahmoeller/__init__.py
+version.path = "src/example_package_sarahmoeller/__init__.py"
 
 [project.optional-dependencies]
 test = ["pytest"]
